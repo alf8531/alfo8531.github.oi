@@ -9,7 +9,7 @@ I am currently working on my final project which explores how to apply Machine L
 Here is what I am working on:
 
 - **[Final Project Outline](./project-outline.md)**
-- **Final Code** - A study on...
+- **Final Code** 
 - **Final project report**
 - **Final Project Presentation** 
 
