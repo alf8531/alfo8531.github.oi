@@ -8,7 +8,7 @@ I am currently working on my final project which explores how to apply Machine L
 ## My Projects
 Here is what I am working on:
 
-- **[Final Project Outline](./project-outline)**
+- **[Final Project Outline](./project-outline.md)**
 - **Final Code** - A study on...
 - **Final project report**
 - **Final Project Presentation** 
