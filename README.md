@@ -11,6 +11,7 @@ Here is what I am working on:
 - **[Final Project Outline](./project-outline.md)**
 - **[Final Project Code](./Final_Project_Conerstone_AGO.ipynb)** 
 - **[Final Project Report](./Final_Report.pdf)**
-- **[Final Project Presentation](./Final_Presentation.pdf)** 
+- **[Final Project Presentation](./Final_Presentation.pdf)**
+- **[🚀 Try the Live App (Streamlit)](https://final-project-conerstone.streamlit.app/)**
 
 [Contact Me](mailto:alfo8531@gmail.com)
